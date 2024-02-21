@@ -421,25 +421,13 @@ color: #19191B;
 
 }
 .cnt-button2{
-    /* width: 344px;
-    background: #F7F7FB;
-    color: #19191B;
-    width: 160;
-    height: 48px;
-    top: 5px;
-    left: 2px;
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 700;
-    font-size: 16px;
-    text-align: center;
-    padding-top: 0.5rem; */
+    
     width: 160px;
     background-color: #5454D4;
     height: 15px;
     top: 5px;
     padding:1rem 0rem 1rem 0rem;
-    /* border-top-right-radius:  10px ;
-    border-bottom-left-radius:10px ; */
+    border-radius: ;
     font-family: 'DM Sans', sans-serif;
     font-weight: 700;
     font-size: 16px;
