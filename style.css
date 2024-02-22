@@ -24,18 +24,6 @@ body{
     font-family:"DM Sans", sans-serif; 
 }
 
-
-
-
-/* .nav-items ul li{
-list-style: none;
-
-
-} */
-/* .nav-items ul li{
-
-} */
-
 .logo-box{
      /* background-color: blueviolet;  */
      padding: 5px;
@@ -407,7 +395,7 @@ color: #19191B;
 .cnt-button{
     width: 160px;
     background-color: #5454D4;
-    height: 15px;
+    height: 35px;
     top: 5px;
     padding:1rem 0rem 1rem 0rem;
     border-radius:10px 0px 0px 10px ;
@@ -416,23 +404,24 @@ color: #19191B;
     font-size: 16px;
     color: #FFFFFF;
     padding-left: 3rem;
-    
+    align-items: center;
 
 
 }
 .cnt-button2{
     
     width: 160px;
-    background-color: #5454D4;
-    height: 15px;
+    background-color: #F7F7FB;
+    height: 35px;
     top: 5px;
     padding:1rem 0rem 1rem 0rem;
-    border-radius: ;
+    border-radius:0px 10px 10px 0px;
     font-family: 'DM Sans', sans-serif;
     font-weight: 700;
     font-size: 16px;
-    color: #FFFFFF;
+    color: #19191B;
     padding-left: 3rem;
+    align-items: center;
 }
 .card-navigation{
       display: flex;
@@ -616,7 +605,7 @@ color: #FFFFFF;
 
 } 
 .hosting{
-    font-family: Mulish;
+    font-family: 'Mulish' sans-serif;
     font-size: 17px;
     font-weight: 400;
     line-height:38px;
